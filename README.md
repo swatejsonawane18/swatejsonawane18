@@ -5,13 +5,6 @@
 
 I am a Software Engineer with a passion for full-stack development, database optimization, and building scalable applications. I hold a Master of Science in Computer Science from the University of Southern California and have around 2 years of professional experience in building impactful applications.
 
-#### 👨‍💻 Work GitHub Account:
-For my professional and work-related repositories, visit my [Work GitHub Profile](https://github.com/SwatejOases).
-
-<a href="https://github.com/SwatejOases">
-  <img src="https://img.shields.io/badge/Work%20GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 ---
 
 #### 🌱 I recently graduated with a Master of Science in Computer Science degree from University of Southern California
